@@ -20,3 +20,8 @@ I think I’m ready for BI work at Southwest because I’ve already done some of
 I’d still use the other tools. I’d use Excel for one-time cleanup, like reconciling three source sheets with different record counts, because I need to see each row. Tableau works well for exploring data and building one focused chart for a meeting. Power BI fits reports that come out regularly, that several people filter themselves, and that need to refresh without being rebuilt. My biggest gap is that I’ve only used Power BI in DataCamp’s browser exercises, never in Power BI Desktop with real company data. To fix that, I plan to rebuild my subcategory analysis in Power BI Desktop and publish it to the Power BI Service, since I already know what the numbers should be.
 
 I used Claude (Anthropic) to help edit this entry from my own Flex 3-6 work. I reviewed and verified all content. 
+
+Card Portfolio Review, BNAN 430, October 19, 2026
+Card Portfolio Review – Contactless Readiness: Which non-contactless cards should Bear Down Bank replace early this quarter without wasting money on cards it will reissue anyway? 
+https://public.tableau.com/views/CardPortfolioReview-ContactlessReadiness_17924811701990/ExploratoryDash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
+If I did it again, I’d break the batch down by card type to see whether prepaid cards, which make up 128 of the 440, need a different fix with the card vendor.
