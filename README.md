@@ -25,3 +25,9 @@ Card Portfolio Review, BNAN 430, October 19, 2026
 Card Portfolio Review – Contactless Readiness: Which non-contactless cards should Bear Down Bank replace early this quarter without wasting money on cards it will reissue anyway? 
 https://public.tableau.com/views/CardPortfolioReview-ContactlessReadiness_17924811701990/ExploratoryDash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
 If I did it again, I’d break the batch down by card type to see whether prepaid cards, which make up 128 of the 440, need a different fix with the card vendor.
+
+
+Advancing in Excel & Tableau – Pt. 4 (Wildcat Rewards), BNAN 430, November 4, 2026
+Which single customer group should receive the Wildcat Rewards pre-approved pilot mailing? 
+View the Tableau workbook here: https://public.tableau.com/views/CardGrowthAnalysis-WildcatsRewardsOffer/ExploratoryDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
+If I did it again, I would test whether low credit card ownership in the Southwest comes from the Sagebrush Pay acquisition before scaling the offer.
