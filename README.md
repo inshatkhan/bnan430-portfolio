@@ -35,7 +35,7 @@ If I did it again, I would test whether low credit card ownership in the Southwe
 Nov 6, 2026. Data Storytelling with Adobe Express. 
 Work sample for Jordan Ellis, VP of Card Growth at Bear Down Bank: send the Wildcat Rewards pilot mailing to customers in Texas, Colorado, New Mexico, Nevada and Utah, where 97 customers qualify.
 
-Work sample: 
+Work sample: https://github.com/inshatkhan/bnan430-portfolio/blob/main/khan-data-storytelling%20(1).pdf 
 Adobe Express link: https://express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:d4a9ef81-0095-59ee-9073-00c5cea1d99c?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other 
 
 Design choice: I used a two-bar chart because Jordan's decision rests on one comparison: 43.9% of customers in the five Southwest states qualify for the offer, compared with 17.4% everywhere else, and a state map would have made him judge four states with fewer than 25 customers each one at a time. I removed the grouped guardrail bar chart from my Tableau draft and replaced it with a three-row table. Six bars made him decode lengths that were nearly equal, while the table lets him see at a glance that only card ownership differs (69% vs. 33%).
