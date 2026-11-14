@@ -41,3 +41,17 @@ Adobe Express link: https://express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:d4a9
 Design choice: I used a two-bar chart because Jordan's decision rests on one comparison: 43.9% of customers in the five Southwest states qualify for the offer, compared with 17.4% everywhere else, and a state map would have made him judge four states with fewer than 25 customers each one at a time. I removed the grouped guardrail bar chart from my Tableau draft and replaced it with a three-row table. Six bars made him decode lengths that were nearly equal, while the table lets him see at a glance that only card ownership differs (69% vs. 33%).
 
 Adobe Express training completed on Nov 6, 2026. 
+
+Nov 14, 2026. Product Pitch with Generative AI in Adobe Express.
+
+Pitch to Jordan Ellis, VP of Card Growth at Bear Down Bank: approve a six-week first phase to validate and launch a 97-customer Wildcat Rewards pilot in five Southwest states.
+
+PDF link: https://github.com/inshatkhan/bnan430-portfolio/blob/main/khan-product-pitch.pdf
+
+Adobe Express link: https://express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:df8a9f55-03d4-5f00-a8e8-e8e80088f2f8?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other 
+
+Toughest objection: "The Southwest isn't typical, so why would pilot results predict the national launch?" Slide 5 answers it: Southwest customers pass the FICO and debt-to-income guardrails at nearly the same rates as everyone else (72% vs. 74%; 77% vs. 76%). They qualify more often only because 69% have no Bear Down credit card, compared with 33% elsewhere.
+
+AI use: Claude (Anthropic, 2026). Used to plan the slide titles and structure, recreate the slide 5 chart from Tableau in brand colors, and identify the toughest objection.
+
+Training completed: Nov 14, 2026. 
