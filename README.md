@@ -55,3 +55,13 @@ Toughest objection: "The Southwest isn't typical, so why would pilot results pre
 AI use: Claude (Anthropic, 2026). Used to plan the slide titles and structure, recreate the slide 5 chart from Tableau in brand colors, and identify the toughest objection.
 
 Training completed: Nov 14, 2026. 
+
+Nov 23, 2026. Brand Standard Application in Tableau. 
+
+Rebranded a public IMDb movie dashboard, then built a brief for Alicia Grant, Manager of Advertiser Partnerships: do family-friendly movies draw enough engagement to support their own ad package?
+
+Access Tableau here: https://public.tableau.com:9443/views/DataPlusMovies2000-2023_17954845749530/DataMoviesIMDBDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
+
+One thing I'd change: I would check the data's actual year range before formatting anything. The workbook is titled 2000-2023, but its latest releases are from 2022, so I had to correct titles and text afterward.
+
+AI use: Claude (Anthropic) compared the four briefs, checked my figures against the data, and proofread my text. 
